@@ -1,4 +1,4 @@
-# some notes just incase you forget git stuff\
+# some notes just incase you forget git stuff
 
 once changes are made
 git add . to add all files (or git add "path" for specific file)
