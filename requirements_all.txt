@@ -1,0 +1,3 @@
+# Synth_Controller
+mido
+python-rtmidi
